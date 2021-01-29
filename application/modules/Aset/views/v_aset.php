@@ -145,7 +145,6 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <!-- <button type="button" class="btn btn-default btn-round waves-effect">SAVE CHANGES</button> -->
                     <button type="button" class="btn btn-danger waves-effect" data-dismiss="modal">CLOSE</button>
                 </div>
             </div>
